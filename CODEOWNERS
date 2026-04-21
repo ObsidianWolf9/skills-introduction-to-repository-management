@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ObsidianWolf9
+/src/backend/database.py      @ObsidianWolf9
+/src/backend/routers/auth.py  @ObsidianWolf9
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ObsidianWolf9
